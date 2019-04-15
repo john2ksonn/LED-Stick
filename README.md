@@ -13,3 +13,8 @@
 * start a long expo
 * reset the arduino (to start the program from the beginning again)
 * move the stick horizontally while holding it vertically
+
+![Input image of a kitten from placekitten](https://github.com/john2ksonn/lightpaintingStick/raw/master/144.jpg)
+![Input image of a kitten from placekitten](https://github.com/john2ksonn/lightpaintingStick/raw/master/kittenTestExpo.JPG)
+
+In this example the image is flipped. This can be easily fixed in code or by moving the stick in the opposite direction.
