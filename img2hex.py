@@ -3,7 +3,7 @@
 from PIL import Image
 from sys import stdout
 
-im = Image.open("144.jpg")
+im = Image.open("input")
 maxSize = 9999999999, 144
 im.thumbnail(maxSize)
 
